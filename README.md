@@ -25,7 +25,7 @@ Este script en Python permite descargar videos de YouTube mediante diferentes m√
 ### Instalaci√≥n de dependencias
 
 ```bash
-pip install yt-dlp
+pip install -r requirements.txt
 
 # Uso del script
 python menu.py
